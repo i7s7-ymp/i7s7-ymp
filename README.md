@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [portfolio](https://i7s7-ymp.github.io/)
+
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=i7s7-ymp)](https://github.com/anuraghazra/github-readme-stats)-->
