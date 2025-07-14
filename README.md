@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on ... [Nifty](https://engineering.nifty.co.jp/category/blog)
 - 💁 Check out my portfolio! ... [click here](https://i7s7-ymp.github.io/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=i7s7-ymp)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=i7s7-ymp&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
